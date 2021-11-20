@@ -18,7 +18,7 @@ I made a presentation about Remote Sensing and Machine Learning algorithms on Go
 [Google Earth Engine & ML & Remote Sensing & Climate Talk on School Of AI](https://www.youtube.com/watch?v=S-fM9ST2PjI&t=511s&ab_channel=BerilSirmacek)
 
 
-⚡ I also make video edits for the movies which I like for my youtube channel.
+⚡ I also make video edits for the movies which I like for my youtube channel [Sparklerated](www.youtube.com/sparklerated)
 
-[![Sparklerated](images/sparklerated.jpg)](www.youbue.com/sparklerated)
+
 
