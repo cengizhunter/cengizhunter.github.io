@@ -22,12 +22,12 @@ Work experience
 
 * Aug 2021 - Present : Jr. Data Analyst at Doktar
   * Agri-Tech Company
-  * Duties included: Geospatial Data Analysis and Computer Vision
+  * Duties included: Geospatial Data Analysis and Computer Vision Applications
  
   
 Coding Languages:
 ======
-* Python
+* Python 
 * R
 * JavaScript
 
