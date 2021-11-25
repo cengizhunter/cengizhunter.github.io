@@ -20,5 +20,5 @@ I made a presentation about Remote Sensing and Machine Learning algorithms on Go
 
 ⚡ I also make video edits for the movies which I like for my youtube channel [Sparklerated](https://www.youtube.com/c/Sparklerated)
 
-
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=GYrQp7x7XyagUDm8_ItAhji78HJXb-_BDrnzJhwhGLM&cl=ffffff&w=a"></script>
 
