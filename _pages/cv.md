@@ -15,7 +15,7 @@ Education
 
 Work experience
 ======
-* November 2021 - Present : Research Fellow
+* November 2021 - Present : Research Assistant
   * Koç University
   * Duties included: Road Extraction via Deep Learning algorithms from Historical Maps
   * Supervisor: Prof. Dr. Elif Sertel & Dr. M. Erdem Kabadayı
