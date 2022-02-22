@@ -20,16 +20,16 @@ Work experience
   * Duties included: Road Extraction via Deep Learning algorithms from Historical Maps
   * Supervisor: Prof. Dr. Elif Sertel & Dr. M. Erdem Kabadayı
 
-* Aug 2021 - Present : Jr. Data Analyst at Doktar
+* Aug 2021 - Jan 2022 : Jr. Data Analyst at Doktar
   * Agri-Tech Company
   * Duties included: Geospatial Data Analysis and Computer Vision Applications
  
   
 Coding Languages:
 ======
-* Python 
-* R
-* JavaScript
+* Python (Pytorch - Computer Vision)
+* R (classification & data analysis)
+* JavaScript (Google Earth Engine)
 
 Softwares that I use:
 ======
