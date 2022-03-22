@@ -7,8 +7,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
-This is my last semester as a Geomatics Engineering student at [Istanbul Technical University](https://www.itu.edu.tr/en/homepage). I am focused
-on fields such as geospatial data analysis and computer vision for obtaining valuable information from the satellite imagery. I make my machine learning & remote sensing studies on Google Earth Engine platform. I am  currently working on the road extraction topic as a Research Assistant at [Urban Occupations](https://urbanoccupations.ku.edu.tr/) OETR project. I also work part time as Junior Data Analyst at [Doktar](https://www.doktar.com/en) Agri Tech Company. I want to build my career on AI and Remote Sensing related fields and make beneficial actions for the only earth we live in against the climate change. 
+
+I am focused on fields such as geospatial data analysis and computer vision for obtaining valuable information from the satellite
+imagery. I make my machine learning remote sensing studies on Google Earth Engine platform. I did my graduation thesis with
+Pytorch to make an Automatic Building Segmentation from High Resolution Satellite Imagery. I am  currently working on the road extraction topic as a Research Assistant at [Urban Occupations](https://urbanoccupations.ku.edu.tr/) OETR project. I also work part time as Junior Data Analyst at [Doktar](https://www.doktar.com/en) Agri Tech Company. I want to build my career on AI and Remote Sensing related fields and make beneficial actions for the only earth we live in against the climate change.
+
+Detailed [CV](https://drive.google.com/uc?id=13dFapnO0wZ1V5Pa6RvLzz4enFDjvs3P_&export=download) 
+======
+
+
 
 My Projects 
 ======
