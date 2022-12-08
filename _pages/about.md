@@ -12,6 +12,7 @@ I am focused on fields such as geospatial data analysis and computer vision for 
 imagery. 
 I graduated as a Geomatics Engineer and started my master’s degree in Satellite Communication and Remote Sensing
 program at Istanbul Technical University under the supervision of [Prof. Dr. Elif Sertel](https://web.itu.edu.tr/~sertele/)
+---
 [My Detailed Resume as PDF](https://drive.google.com/file/d/1sMdRKHw9M1luluKzgTtbrjiIeRNUbweY/view) 
 
 
