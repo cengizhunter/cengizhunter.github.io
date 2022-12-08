@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Geomatics Engineering, Istanbul Technical University, 2022
+* Master of Science in Satellite Communication and Remote Sensing, Istanbul Technical University, 2022- Present
+* B.S. in Geomatics Engineering, Istanbul Technical University, 2017-2021
 
 Work experience
 ======
