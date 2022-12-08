@@ -20,5 +20,5 @@ Detailed [CV](https://drive.google.com/file/d/1sMdRKHw9M1luluKzgTtbrjiIeRNUbweY/
 Publications
 ======
 
-**2) Cengiz Avcı**, Elif Sertel, and Mustafa Erdem Kabadayı. "Deep Learning-Based Road Extraction From Historical Maps." IEEE Geoscience and Remote Sensing Letters 19 (2022): 1-5.
-**1) Cengiz, Avcı**, et al. "Comparison between random forest and support vector machine algorithms for LULC classification." International Journal of Engineering and Geosciences 8.1: 1-10.
+2) **Cengiz Avcı**, Elif Sertel, and Mustafa Erdem Kabadayı. "Deep Learning-Based Road Extraction From Historical Maps." IEEE Geoscience and Remote Sensing Letters 19 (2022): 1-5.
+1) **Cengiz, Avcı**, et al. "Comparison between random forest and support vector machine algorithms for LULC classification." International Journal of Engineering and Geosciences 8.1: 1-10.
