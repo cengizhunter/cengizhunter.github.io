@@ -20,6 +20,7 @@ program at Istanbul Technical University under the supervision of [Prof. Dr. Eli
 Publications
 ======
 1) **Cengiz Avcı**, Elif Sertel, and Mustafa Erdem Kabadayı. "Deep Learning-Based Road Extraction From Historical Maps." IEEE Geoscience and Remote Sensing Letters 19 (2022): 1-5.
+
 2) **Cengiz, Avcı**, et al. "Comparison between random forest and support vector machine algorithms for LULC classification." International Journal of Engineering and Geosciences 8.1: 1-10. 
 
 
