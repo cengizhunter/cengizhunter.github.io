@@ -20,9 +20,9 @@ My research interests primarily revolve around machine/deep learning and compute
 
 2) **Cengiz, Avcı**, et al. "Comparison between random forest and support vector machine algorithms for LULC classification." International Journal of Engineering and Geosciences 8.1: 1-10. 
 
+
+
 ## My Talks & Projects
-
-
 
 ### Climate App 
 An application I developed in FarmOn that calculates the future climate resemblance of different locations. This tool is designed to help determine the similarity between the current climate of a location and the projected climate of another location in the future.
@@ -31,7 +31,8 @@ An application I developed in FarmOn that calculates the future climate resembla
 
 ### Talk On School of AI 
 
-[![ttt ALT TEXT HERE](https://img.youtube.com/watch?v=S-fM9ST2PjI&t=968s/0.jpg)](https://youtube.com/watch?v=S-fM9ST2PjI&t=968s)
+I show hands-on machine learning experiments using Google Earth Engine and remote sensing data. You will see #wildfire detection and #watersecurity analysis examples within this lecture.
+[![Machine Learning with GEE using Earth Observation Data](https://https://img.youtube.com/vi/S-fM9ST2PjI/0.jpg)](https://youtube.com/watch?v=S-fM9ST2PjI&t=968s)
 
 
 
