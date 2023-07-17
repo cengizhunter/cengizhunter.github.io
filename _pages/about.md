@@ -29,7 +29,7 @@ My research interests primarily revolve around machine/deep learning and compute
 ### Climate App 
 An application I developed while I was working as a ML Intern at  [FarmOn](https://www.farmonapp.com/) that calculates the future climate resemblance of different locations. This tool is designed to help determine the similarity between the current climate of a location and the projected climate of another location in the future.
 
-<img width="682" alt="app" src="https://github.com/cengizhunter/cengizhunter.github.io/assets/60839739/e4a83980-6fe8-4e53-84d6-bccd89ade2ba">
+<img width="341" alt="app" src="https://github.com/cengizhunter/cengizhunter.github.io/assets/60839739/e4a83980-6fe8-4e53-84d6-bccd89ade2ba">
 
 ### Talk On School of AI 
 
