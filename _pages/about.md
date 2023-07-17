@@ -32,7 +32,7 @@ An application I developed in FarmOn that calculates the future climate resembla
 ### Talk On School of AI 
 
 I show hands-on machine learning experiments using Google Earth Engine and remote sensing data. You will see #wildfire detection and #watersecurity analysis examples within this lecture.
-[![Machine Learning with GEE using Earth Observation Data](https://https://img.youtube.com/vi/S-fM9ST2PjI/0.jpg)](https://youtube.com/watch?v=S-fM9ST2PjI&t=968s)
+[![Machine Learning with GEE using Earth Observation Data](mg.youtube.com/vi/S-fM9ST2PjI/0.jpg)](https://youtube.com/watch?v=S-fM9ST2PjI&t=968s)
 
 
 
