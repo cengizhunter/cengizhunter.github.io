@@ -22,11 +22,18 @@ My research interests primarily revolve around machine/deep learning and compute
 
 ## My Talks & Projects
 
-Climate App 
 
--- An application I developed in FarmOn that calculates the future climate resemblance of different locations. This tool is designed to help determine the similarity between the current climate of a location and the projected climate of another location in the future.
+
+### Climate App 
+An application I developed in FarmOn that calculates the future climate resemblance of different locations. This tool is designed to help determine the similarity between the current climate of a location and the projected climate of another location in the future.
 
 <img width="682" alt="app" src="https://github.com/cengizhunter/cengizhunter.github.io/assets/60839739/e4a83980-6fe8-4e53-84d6-bccd89ade2ba">
+
+### Talk On School of AI 
+
+[![ttt ALT TEXT HERE](https://img.youtube.com/watch?v=S-fM9ST2PjI&t=968s/0.jpg)](https://youtube.com/watch?v=S-fM9ST2PjI&t=968s)
+
+
 
 
 
