@@ -21,6 +21,7 @@ My research interests primarily revolve around machine/deep learning and compute
 2) **Cengiz, Avcı**, et al. "Comparison between random forest and support vector machine algorithms for LULC classification." International Journal of Engineering and Geosciences 8.1: 1-10. 
 
 ## My Talks & Projects
+
 ### Talk On School of AI 
 
 I show hands-on machine learning experiments using Google Earth Engine and remote sensing data. You will see #wildfire detection and #watersecurity analysis examples within this lecture.
@@ -31,6 +32,7 @@ An application I developed while I was working as a ML Intern at  [FarmOn](https
 
 <img width="450" alt="app" src="https://github.com/cengizhunter/cengizhunter.github.io/assets/60839739/e4a83980-6fe8-4e53-84d6-bccd89ade2ba">
 
+## 🌎 clustermap 🌎
 
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=GYrQp7x7XyagUDm8_ItAhji78HJXb-_BDrnzJhwhGLM"></script>
 
