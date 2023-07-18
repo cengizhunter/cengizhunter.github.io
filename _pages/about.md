@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 --- 
 
+My mail adress: avcice16@itu.edu.tr
 I am a MSc student on Satellite Communication and Remote Sensing program at Istanbul Technical University.
 I work as a full-time Geospatial Data Scientist at data driven Agri-Tech company [Doktar](https://www.doktar.com/)
 Before, I was a research assistant at [Koç University](https://www.ku.edu.tr/en/), on an ERC project titled [UrbanOccupations](https://urbanoccupations.ku.edu.tr/).
