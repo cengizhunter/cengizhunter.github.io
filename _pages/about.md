@@ -8,12 +8,13 @@ redirect_from:
   - /about.html
 --- 
 
-My mail adress: avcice16@itu.edu.tr
+
 I am a MSc student on Satellite Communication and Remote Sensing program at Istanbul Technical University.
 I work as a full-time Geospatial Data Scientist at data driven Agri-Tech company [Doktar](https://www.doktar.com/)
 Before, I was a research assistant at [Koç University](https://www.ku.edu.tr/en/), on an ERC project titled [UrbanOccupations](https://urbanoccupations.ku.edu.tr/).
 
 My research interests primarily revolve around machine/deep learning and computer vision, particularly in the context of multi-modal earth observation data. I have a specific focus on utilizing these techniques for environmental conservation purposes. Moreover, I am keen on incorporating explainable machine learning methods into my work to enhance interpretability and transparency.
+My mail adress: avcice16@itu.edu.tr
 
 ## Publications
 
