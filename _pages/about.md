@@ -32,6 +32,10 @@ An application I developed while I was working as a ML Intern at  [FarmOn](https
 
 <img width="450" alt="app" src="https://github.com/cengizhunter/cengizhunter.github.io/assets/60839739/e4a83980-6fe8-4e53-84d6-bccd89ade2ba">
 
+[![Farmon Climate App](https://github.com/cengizhunter/cengizhunter.github.io/assets/60839739/e4a83980-6fe8-4e53-84d6-bccd89ade2ba](https://www.linkedin.com/feed/update/urn:li:activity:7064578999661772800/)
+
+
+
 ## 🌎 clustermap 🌎
 
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=GYrQp7x7XyagUDm8_ItAhji78HJXb-_BDrnzJhwhGLM"></script>
