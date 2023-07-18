@@ -6,7 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
----
+--- 
 
 I am a MSc student on Satellite Communication and Remote Sensing program at Istanbul Technical University.
 I work as a full-time Geospatial Data Scientist at data driven Agri-Tech company [Doktar](https://www.doktar.com/)
