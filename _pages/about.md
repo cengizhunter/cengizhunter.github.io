@@ -32,7 +32,7 @@ An application I developed while I was working as a ML Intern at  [FarmOn](https
 
 <img width="450" alt="app" src="https://github.com/cengizhunter/cengizhunter.github.io/assets/60839739/e4a83980-6fe8-4e53-84d6-bccd89ade2ba">
 
-[![Farmon Climate App](https://github-production-user-asset-6210df.s3.amazonaws.com/60839739/253892276-e4a83980-6fe8-4e53-84d6-bccd89ade2ba.png){:width="450px"}](https://github-production-user-asset-6210df.s3.amazonaws.com/60839739/253892276-e4a83980-6fe8-4e53-84d6-bccd89ade2ba.png)
+[![Farmon Climate App](https://github-production-user-asset-6210df.s3.amazonaws.com/60839739/253892276-e4a83980-6fe8-4e53-84d6-bccd89ade2ba.png)(https://github-production-user-asset-6210df.s3.amazonaws.com/60839739/253892276-e4a83980-6fe8-4e53-84d6-bccd89ade2ba.png)
 
 
 
