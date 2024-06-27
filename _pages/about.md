@@ -7,7 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 --- 
+## Download My CV
 
+You can download my CV by clicking the link below:
+[Download My CV](_data/Cengiz_Avci_CV_June2024.pdf)
 
 I am a MSc student on Satellite Communication and Remote Sensing program at Istanbul Technical University.
 I work as a full-time Geospatial Data Scientist at data driven Agri-Tech company [Doktar](https://www.doktar.com/)
@@ -18,9 +21,9 @@ My mail adress: avcice16@itu.edu.tr
 
 ## Publications
 
-1) **Cengiz Avcı**, Elif Sertel, and Mustafa Erdem Kabadayı. "Deep Learning-Based Road Extraction From Historical Maps." IEEE Geoscience and Remote Sensing Letters 19 (2022): 1-5.
-
-2) **Cengiz, Avcı**, et al. "Comparison between random forest and support vector machine algorithms for LULC classification." International Journal of Engineering and Geosciences 8.1: 1-10. 
+1) **Cengiz Avcı**, Elif Sertel, and Mustafa Erdem Kabadayı. "Deep Learning-Based Road Extraction From Historical Maps." IEEE Geoscience and Remote Sensing Letters 19 (2022): 1-5. 
+2) Sertel, E., Avci, C., & Kabadayi, M. E. (2023, July). Deep Learning-Based Land Use Land Cover Segmentation of Historical Aerial Images. In IGARSS 2023-2023 IEEE International Geoscience and Remote Sensing Symposium (pp. 2622-2625). IEEE.
+3) **Cengiz, Avcı**, et al. "Comparison between random forest and support vector machine algorithms for LULC classification." International Journal of Engineering and Geosciences 8.1: 1-10. 
 
 ## My Talks & Projects
 
