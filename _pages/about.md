@@ -7,10 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 --- 
+
 ## Download My CV
 
 You can download my CV by clicking the link below:
-[Download My CV](_data/Cengiz_Avci_CV_June2024.pdf)
+
+[Download My CV](https://github.com/cengizhunter/cengizhunter.github.io/raw/master/_data/Cengiz_Avci_CV_June2024.pdf)
+
 
 I am a MSc student on Satellite Communication and Remote Sensing program at Istanbul Technical University.
 I work as a full-time Geospatial Data Scientist at data driven Agri-Tech company [Doktar](https://www.doktar.com/)
