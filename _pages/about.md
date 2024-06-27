@@ -8,10 +8,9 @@ redirect_from:
   - /about.html
 --- 
 
-## Download My CV
+## [Download My CV](https://github.com/cengizhunter/cengizhunter.github.io/raw/master/_data/Cengiz_Avci_CV_June2024.pdf)
 
-You can download my CV by clicking the link below:
-[Download My CV](https://github.com/cengizhunter/cengizhunter.github.io/raw/master/_data/Cengiz_Avci_CV_June2024.pdf)
+
 
 
 I am a MSc student on Satellite Communication and Remote Sensing program at Istanbul Technical University.
