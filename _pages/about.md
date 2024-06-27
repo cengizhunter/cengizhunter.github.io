@@ -10,15 +10,13 @@ redirect_from:
 
 ## [Download My CV](https://github.com/cengizhunter/cengizhunter.github.io/raw/master/_data/Cengiz_Avci_CV_June2024.pdf)
 
-
-
-
-I am a MSc student on Satellite Communication and Remote Sensing program at Istanbul Technical University.
-I work as a full-time Geospatial Data Scientist at data driven Agri-Tech company [Doktar](https://www.doktar.com/)
-Before, I was a research assistant at [Koç University](https://www.ku.edu.tr/en/), on an ERC project titled [UrbanOccupations](https://urbanoccupations.ku.edu.tr/).
-
-My research interests primarily revolve around machine/deep learning and computer vision, particularly in the context of multi-modal earth observation data. I have a specific focus on utilizing these techniques for environmental conservation purposes. Moreover, I am keen on incorporating explainable machine learning methods into my work to enhance interpretability and transparency.
-My mail adress: avcice16@itu.edu.tr
+I am a Geomatics Engineer currently pursuing a Master’s degree in Satellite Communication and Remote Sensing at Istanbul
+Technical University, which I will be completing in July 2024. My thesis focuses on transformer-based semantic segmentation
+models. My professional experience includes roles as a Data Scientist, Machine Learning Engineer, and Research Assistant, where I
+applied deep learning algorithms to a variety of tasks such as agricultural boundary delineation, land use/land cover
+segmentation, and road extraction from historical maps. I possess a strong skill set in Python, PyTorch, and a wide range of deep
+learning tools. Additionally, I have extensive experience with implementing state-of-the-art Hugging Face models. My research has
+been published in reputable journals, reflecting my commitment to advancing the field of data science.
 
 ## Publications
 
