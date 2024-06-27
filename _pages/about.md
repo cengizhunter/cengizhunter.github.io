@@ -11,7 +11,6 @@ redirect_from:
 ## Download My CV
 
 You can download my CV by clicking the link below:
-
 [Download My CV](https://github.com/cengizhunter/cengizhunter.github.io/raw/master/_data/Cengiz_Avci_CV_June2024.pdf)
 
 
