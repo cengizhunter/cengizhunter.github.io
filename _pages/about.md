@@ -8,15 +8,14 @@ redirect_from:
   - /about.html
 --- 
 
-## [Download My CV](https://github.com/cengizhunter/cengizhunter.github.io/raw/master/_data/Cengiz_Avci_CV_June2024.pdf)
+## [Download My CV](https://github.com/cengizhunter/cengizhunter.github.io/raw/master/_data/cengiz_avci_cv.pdf)
 
-I am a Geomatics Engineer currently pursuing a Master’s degree in Satellite Communication and Remote Sensing at Istanbul
-Technical University, which I will be completing in July 2024. My thesis focuses on transformer-based semantic segmentation
-models. My professional experience includes roles as a Data Scientist, Machine Learning Engineer, and Research Assistant, where I
-applied deep learning algorithms to a variety of tasks such as agricultural boundary delineation, land use/land cover
-segmentation, and road extraction from historical maps. I possess a strong skill set in Python, PyTorch, and a wide range of deep
-learning tools. Additionally, I have extensive experience with implementing state-of-the-art Hugging Face models. My research has
-been published in reputable journals, reflecting my commitment to advancing the field of data science.
+ I am a DataScientist with expertise in geospatial data, computer vision, and remote sensing. I completed my Bachelor’s degree in
+ Geomatics Engineering and earnedmyMasterofScienceinSatellite CommunicationandRemoteSensingfromIstanbulTechnical
+ University in January 2025. My thesis focused on Transformer and CNNbasedsemanticsegmentationforlanduseanalysis, anda
+ conference paper derived from this work hasbeenpublished. Withastrongfoundationin artificial intelligence and a proven track
+ record of research, my aimis to applydata-driven technologies to advance both academic inquiry and industry practice, with
+ particular emphasis on addressing climate-related challenges and contributing to global sustainability
 
 ## Publications
 
